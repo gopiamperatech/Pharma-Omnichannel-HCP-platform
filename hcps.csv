@@ -1,0 +1,8 @@
+hcp_id,name,specialty,location,segments,prescribing_volume,preferred_channels,last_engagement_date,assigned_rep
+H001,Dr. Sarah Smith,Oncology,San Francisco,Key Opinion Leader;Digital-first,High,Email|Webinar,2025-09-12,Alice Green
+H002,Dr. Amit Patel,Cardiology,New York,Cost-sensitive;In-person,Medium,Field Rep|Email,2025-09-10,Bob Lee
+H003,Dr. Emily Lee,Neurology,Boston,Early adopter;Omnichannel,High,Webinar|Portal,2025-09-14,Alice Green
+H004,Dr. Raj Mehta,Endocrinology,Chicago,Guideline-focused;Digital-first,Low,Email|Portal,2025-09-15,Chris Young
+H005,Dr. Ana García,Rheumatology,Miami,Data-driven;In-person,Medium,Field Rep|Webinar,2025-09-08,Bob Lee
+H006,Dr. Olivia Chen,Ophthalmology,Los Angeles,Digital-first;Early adopter,High,Email|Portal,2025-09-13,Chris Young
+H007,Dr. Vivek Nair,Immunology,Seattle,Guideline-focused;Omnichannel,Medium,Webinar|Email,2025-09-11,Alice Green

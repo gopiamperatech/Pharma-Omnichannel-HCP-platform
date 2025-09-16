@@ -1,0 +1,30 @@
+hcp_id,date,brand,therapy_area,channel,cost,conversion,rep
+H001,2025-09-05,OncoX,Oncology,Email,1.0,0,
+H001,2025-09-07,OncoX,Oncology,Portal,0.5,0,
+H001,2025-09-09,OncoX,Oncology,Webinar,15.0,0,
+H001,2025-09-12,OncoX,Oncology,Portal,0.5,0,
+H001,2025-09-14,OncoX,Oncology,Field Rep,50.0,1,Alice Green
+H002,2025-09-03,CardioY,Cardiology,Field Rep,50.0,0,Bob Lee
+H002,2025-09-06,CardioY,Cardiology,Email,1.0,0,
+H002,2025-09-08,CardioY,Cardiology,Portal,0.5,0,
+H002,2025-09-10,CardioY,Cardiology,Email,1.0,0,
+H002,2025-09-11,CardioY,Cardiology,Portal,0.5,1,
+H003,2025-09-04,NeuroZ,Neurology,Portal,0.5,0,
+H003,2025-09-06,NeuroZ,Neurology,Webinar,15.0,0,
+H003,2025-09-09,NeuroZ,Neurology,Email,1.0,0,
+H003,2025-09-13,NeuroZ,Neurology,KOL,30.0,1,
+H004,2025-09-08,EndoM,Endocrinology,Email,1.0,0,
+H004,2025-09-12,EndoM,Endocrinology,Portal,0.5,0,
+H004,2025-09-15,EndoM,Endocrinology,Email,1.0,1,
+H005,2025-09-05,RheumQ,Rheumatology,Field Rep,50.0,0,Bob Lee
+H005,2025-09-07,RheumQ,Rheumatology,Email,1.0,0,
+H005,2025-09-09,RheumQ,Rheumatology,Webinar,15.0,0,
+H005,2025-09-10,RheumQ,Rheumatology,Portal,0.5,0,
+H005,2025-09-11,RheumQ,Rheumatology,Email,1.0,1,
+H006,2025-09-10,OphthaB,Ophthalmology,Portal,0.5,0,
+H006,2025-09-11,OphthaB,Ophthalmology,Email,1.0,0,
+H006,2025-09-12,OphthaB,Ophthalmology,Portal,0.5,0,
+H006,2025-09-13,OphthaB,Ophthalmology,Field Rep,50.0,1,Chris Young
+H007,2025-09-08,ImmunoA,Immunology,Email,1.0,0,
+H007,2025-09-10,ImmunoA,Immunology,Webinar,15.0,0,
+H007,2025-09-11,ImmunoA,Immunology,Email,1.0,1,

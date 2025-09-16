@@ -1,0 +1,9 @@
+asset_id,title,therapy_area,format,channel,mlr_status,tags
+A001,MOA Infographic,Oncology,PDF,Email,Approved,moa;oncology;infographic
+A002,Tumor Board Webinar Deck,Oncology,Slides,Webinar,Approved,webinar;deck;oncology
+A003,Cardio Case Study,Cardiology,PDF,Email,Under Review,cardiology;case-study
+A004,Neurology Pipeline Overview,Neurology,Slides,Portal,Approved,pipeline;neurology
+A005,Endocrinology Dosing Guide,Endocrinology,PDF,Portal,Approved,dosing;endocrinology
+A006,Rheumatology MOA Explainer,Rheumatology,PDF,Email,Approved,moa;rheumatology
+A007,Retina Imaging Primer,Ophthalmology,Slides,Portal,Approved,ophthalmology;retina
+A008,Cytokine Pathways Explainer,Immunology,PDF,Email,Approved,immunology;moa

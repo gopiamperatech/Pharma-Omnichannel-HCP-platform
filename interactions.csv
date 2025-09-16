@@ -1,0 +1,19 @@
+hcp_id,timestamp,channel,event,details
+H001,2025-09-09T10:00:00,Portal,Visit,Visited Oncology therapy page
+H001,2025-09-10T09:30:00,Email,Open,Opened MOA infographic email
+H001,2025-09-11T17:00:00,Webinar,Register,Registered for Tumor Board webinar
+H001,2025-09-12T18:05:00,Webinar,Attend,Attended Tumor Board webinar
+H002,2025-09-07T15:20:00,Field Rep,Visit,In-person detailing on CardioY drug
+H002,2025-09-08T11:10:00,Email,Click,Clicked case-study link
+H002,2025-09-10T14:45:00,Portal,Visit,Checked dosing information
+H003,2025-09-12T08:00:00,Portal,Visit,Saw Neurology pipeline page
+H003,2025-09-13T09:40:00,Webinar,Attend,Attended KOL roundtable
+H003,2025-09-14T12:15:00,Email,Open,Opened clinical data update
+H004,2025-09-13T13:00:00,Email,Open,Opened safety letter
+H004,2025-09-15T08:45:00,Portal,Visit,Visited Endocrinology dosing page
+H005,2025-09-06T10:30:00,Field Rep,Visit,Clinic visit with samples
+H005,2025-09-07T18:25:00,Webinar,Register,Registered for Practice Mgmt webinar
+H006,2025-09-11T09:20:00,Portal,Visit,Viewed Ophthalmology product page
+H006,2025-09-12T10:05:00,Email,Open,Opened dosing update email
+H007,2025-09-10T16:40:00,Webinar,Register,Registered for Immunology KOL talk
+H007,2025-09-11T18:10:00,Email,Open,Opened safety information email
